@@ -1,2 +1,2 @@
-# Applied-DS_practiceAssignments
+# Data science capstone project
 DS_notebooks
