@@ -1,2 +1,2 @@
 # Data science capstone project
-DS_notebooks
+objectives: data collection, data wrangling, web scraping, exploratory data analysis, predictive analysis, feature engineering, SQL queries, machine learning,...
